@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(37, 36, 36);
+  color: red;
+  display: flex;
+  flex-direction: column;
+}
+
+h1,
+label,
+a {
+  color: red;
+  text-align: center;
+}
+h2 {
+  color: red;
+  border-color: black;
+}
+button {
+  background-color: red;
+  border-radius: 5px;
+  border-color: brown;
+}
+.ticket {
+  display: flex;
+  text-align: center;
+  border-radius: 20px;
+  opacity: 50%;
+  background-image: none;
+}
